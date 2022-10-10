@@ -6,3 +6,5 @@
 *.html
 
 *.csv
+
+*.ipynb_checkpoints
